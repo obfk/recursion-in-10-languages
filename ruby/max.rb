@@ -1,3 +1,5 @@
+# Find the maximum value in an array.
+
 def max(x, y)
   x > y ? x : y
 end

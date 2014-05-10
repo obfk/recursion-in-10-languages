@@ -10,5 +10,5 @@
 
 1. Calculate the sum of a list of numbers.
 2. Reverse the characters in a string.
-3. Count the number of zeros in an array of integers.
-4. Find the minimum element in an array of integers.
+3. Find the maximum element in an array of integers.
+4. Count the number of zeros in an array of integers.

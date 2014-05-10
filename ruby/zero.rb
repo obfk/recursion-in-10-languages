@@ -1,3 +1,5 @@
+# Count the number of zeros in an array of integers.
+
 def head(a)
   return a[0]
 end

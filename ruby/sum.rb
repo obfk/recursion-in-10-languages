@@ -1,3 +1,5 @@
+# Calculate the sum of a list of numbers.
+
 # recursion
 def sum(array)
   return array[0] if array.size == 1
