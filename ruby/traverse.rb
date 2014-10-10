@@ -1,6 +1,6 @@
 def dig(hash, flt = {})
   hash.each { |k, v| v.is_a?(Hash) ? dig(v, flt) : flt[k] = v }
-  return flt
+  flt
 end
 
 a = {a: {b: "cat", c: "dog"}, d: "pig"}
